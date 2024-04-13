@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: #212529;
+    font-family: Cambria, 'Times New Roman', Georgia, Times, serif;
+}
+.subtitle {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: #212529;
+    font-family: Cambria, 'Times New Roman', Georgia, Times, serif;   
+}
+
+body{
+    background-color: #F8F9FA;
+    font-size:18px;
+    font-family: Cambria, 'Times New Roman', Georgia, Times, serif;
+}
+
+.list{
+    margin-top: 50px;
+    background-color: #c6e3ff
+}
+
+.banner{
+    background-color: #c6e3ff
+}
+.hobbieimage{
+    text-align: center;
+    
+}
